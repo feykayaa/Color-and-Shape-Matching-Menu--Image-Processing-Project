@@ -33,8 +33,8 @@ By leveraging **Object-Oriented Programming (OOP)** and **OpenCV** for image pro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/restaurant-menu-system.git
-   cd restaurant-menu-system
+   git clone https://github.com/feykayaa/Color-and-Shape-Matching-Menu--Image-Processing-Project.git
+   cd Color-and-Shape-Matching-Menu--Image-Processing-Project
    ```
 
 2. **Install required packages**:
@@ -49,7 +49,7 @@ By leveraging **Object-Oriented Programming (OOP)** and **OpenCV** for image pro
      ```
 
 4. **Upload an Image of the Order**:
-   - The program will prompt you to upload an image file (e.g., `yourorder.png`) containing the selected objects.
+   - The program will prompt you to upload an image file containing the selected objects.
    - The program will then analyze the image to recognize the colors and shapes of the objects and interpret them as dishes.
 
 ---
