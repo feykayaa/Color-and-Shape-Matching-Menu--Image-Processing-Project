@@ -94,13 +94,6 @@ By leveraging **Object-Oriented Programming (OOP)** and **OpenCV** for image pro
 
 ---
 
-### Future Enhancements
-
-- Adding support for more complex dish combinations and customization.
-- Implementing more advanced object recognition for multi-object detection in images.
-
----
-
 ### License
 
 This project is licensed under the MIT License.
